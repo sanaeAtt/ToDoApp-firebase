@@ -1,0 +1,23 @@
+name: todo_app_firebase
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^5.1.0
+  firebase_core: ^3.2.0
+  flutter_slidable: ^3.1.0
+  shared_preferences: ^2.0.15
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
