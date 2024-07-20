@@ -14,15 +14,14 @@ This is a simple To-Do application built with Flutter and Firebase. The app supp
 
 ### Light Theme
 <div style="display: flex; justify-content: center;">
-        <img src="https://github.com/user-attachments/assets/dcf44e1f-9974-4275-8d20-81b64cca70ef" alt="Screenshot 6" >
- <img src="https://github.com/user-attachments/assets/fce09518-b6d7-408f-b367-8d07c6efce67" alt="Screenshot 5"  style="margin-right: 20px;">
-    <img src="https://github.com/user-attachments/assets/ae5317eb-b5c7-456f-99d8-01083c24a34c" alt="Screenshot 3"  style="margin-right: 20px;">
+        <img src="https://github.com/user-attachments/assets/e9f0f65c-c316-46b0-b87b-24b5e3ef0b7b" alt="Screenshot 6" style="margin-right: 20px;">
+        <img src="https://github.com/user-attachments/assets/000e0427-d4d2-49bb-8135-e8636a85b2a8" alt="Screenshot 5"  style="margin-right: 20px;">
 </div>
 
 ### Dark Theme
 <div style="display: flex; justify-content: center;">
-        <img src="https://github.com/user-attachments/assets/26f755a4-cd95-444c-8381-2124609c9476" alt="Screenshot 1"  style="margin-right: 20px;">
-    <img src="https://github.com/user-attachments/assets/b2c93c4b-74b4-4573-9556-6410a04d0ab0" alt="Screenshot 2"  style="margin-right: 20px;">
+        <img src="https://github.com/user-attachments/assets/88901ec7-5a80-436c-9932-cd514dc014b9" alt="Screenshot 1"  style="margin-right: 20px;">
+        <img src="https://github.com/user-attachments/assets/df51c183-6f44-4e06-8dfc-d52681fd17a8" alt="Screenshot 2"  style="margin-right: 20px;">
 </div>
 
 
